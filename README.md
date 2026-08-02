@@ -12,3 +12,23 @@ Python &amp; Machine Learning Basics  This repository contains my Python program
 - File Handling
 - Exception Handling
 - Object-Oriented Programming (OOP)
+
+## 📊 Data Analysis
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 🤖 Machine Learning
+
+- Data Preprocessing
+- Train-Test Split
+- Decision Tree
+- KNN
+- Logistic Regression
+- Linear Regression
+- Naive Bayes
+- Model Evaluation
+- Confusion Matrix
+- Accuracy Score
